@@ -11,6 +11,12 @@ PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTe
 
 ![demo.gif](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/demo.gif)
 
+Embedding: 
+
+```
+<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>
+```
+
 ### Pinball
 
 <https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html>
@@ -19,7 +25,9 @@ PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTe
 
 Embedding: 
 
-```<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html" width="640px" height="510px"></iframe>```
+```
+<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html" width="640px" height="510px"></iframe>
+```
 
 ### Piano
 
@@ -29,7 +37,9 @@ Embedding:
 
 Embedding: 
 
-```<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Piano.html" width="640px" height="510px"></iframe>```
+```
+<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Piano.html" width="640px" height="510px"></iframe>
+```
 
 ### WebCamera
 
@@ -41,7 +51,9 @@ Embedding:
 
 Embedding: 
 
-```<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>```
+```
+<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>
+```
 
 ## Siv3DForHTML5Samples Project
 
