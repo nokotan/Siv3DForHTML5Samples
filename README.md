@@ -6,14 +6,19 @@
 
 <https://nokotan.github.io/OpenSiv3DForHTML5Samples/BasicSample/BasicSample.html>
 
-OpenGLES2 version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/GLES2SupportTest/Siv3D_App.html>
-PWA version: <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTest.html>
-
 ![demo.gif](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/demo.gif)
+
+#### OpenGLES2 version
+
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/GLES2SupportTest/Siv3D_App.html>
+
+#### PWA version
+
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTest.html>
 
 Embedding: 
 
-```
+```html
 <iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>
 ```
 
@@ -25,7 +30,7 @@ Embedding:
 
 Embedding: 
 
-```
+```html
 <iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html" width="640px" height="510px"></iframe>
 ```
 
@@ -37,7 +42,7 @@ Embedding:
 
 Embedding: 
 
-```
+```html
 <iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Piano.html" width="640px" height="510px"></iframe>
 ```
 
@@ -51,7 +56,7 @@ Embedding:
 
 Embedding: 
 
-```
+```html
 <iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>
 ```
 
