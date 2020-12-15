@@ -1,12 +1,10 @@
 # Siv3DForHTML5Samples
 
-## Github Pages
+## Apps Gallary
+
+Moved to [OpenSiv3D for Web Project Site](https://siv3d.kamenokosoft.com/gallary)
 
 ### Basic Sample
-
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/BasicSample/BasicSample.html>
-
-![demo.gif](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/demo.gif)
 
 #### OpenGLES2 version
 
@@ -15,54 +13,6 @@
 #### PWA version
 
 <https://nokotan.github.io/OpenSiv3DForHTML5Samples/PWATest/Siv3DTest.html>
-
-#### Embedding
-
-```html
-<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>
-```
-
-### Pinball
-
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html>
-
-![pinball](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/game-pinball.gif)
-
-#### Embedding
-
-```html
-<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Pinball/Pinball.html" width="640px" height="510px"></iframe>
-```
-
-### Piano
-
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Piano.html>
-
-![piano](https://github.com/Siv3D/OpenSiv3D/raw/master/doc/images/app-piano.gif)
-
-#### Embedding
-
-```html
-<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/Piano/Piano.html" width="640px" height="510px"></iframe>
-```
-
-### WebCamera
-
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/WebCamera/WebCamera.html>
-
-### ShineOfLife
-
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html>
-
-#### Embedding
-
-```html
-<iframe src="https://nokotan.github.io/OpenSiv3DForHTML5Samples/ShineOfLife/ShineOfLife.html" width="640px" height="510px"></iframe>
-```
-
-### KDTree
-
-<https://nokotan.github.io/OpenSiv3DForHTML5Samples/KDTree/Siv3DTest.html>
 
 ## Siv3DForHTML5Samples Project
 
