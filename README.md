@@ -94,6 +94,14 @@ Moved to [OpenSiv3D for Web Project Site](https://siv3d.kamenokosoft.com/gallary
 
 <https://nokotan.github.io/OpenSiv3DForHTML5Samples/AudioPlayer/AudioPlayer.html>
 
+### Homography
+
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/Homography/Siv3DTest.html>
+
+### GrabCut
+
+<https://nokotan.github.io/OpenSiv3DForHTML5Samples/GrabCut/Siv3DTest.html>
+
 ## Siv3DForHTML5Samples Project
 
 <https://github.com/nokotan/OpenSiv3D>
